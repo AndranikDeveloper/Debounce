@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+.debonce {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.user {
+  border: 1px solid transparent;
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color: yellowgreen;
+  padding: 5px;
+  color: white;
+}
